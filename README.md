@@ -36,6 +36,7 @@ Superstore wants to create a sales performance report covering 2015-2018. So tha
 
 ## Final Conclusion:
 To improve Superstore's sales, a strategic focus on the Consumer segment in California and Texas should be implemented, since these represent the largest revenue drivers. The approach should include prioritizing Furniture and Technology inventory, replicating the success of top-performing customer relationships, and expanding marketing efforts in the Central and East regions where growth potential is highest.
--Dashboard
+
+## Dashboard
 <img width="594" height="335" alt="Screenshot 2026-07-25 160211" src="https://github.com/user-attachments/assets/87c530b5-25ea-4761-a254-2eee821e1c5a" />
 
