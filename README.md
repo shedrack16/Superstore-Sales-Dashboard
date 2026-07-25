@@ -4,7 +4,7 @@
 Superstore wants to create a sales performance report covering 2015-2018. So that, the business can understand its customers, sales trends, and top-performing regions/products to grow more sales going forward.
 
 ## Dataset used
-- [Dataset](https://github.com/shedrack16/Superstore-Sales-Dashboard)
+- [Dataset](https://eu.wps.com/cms/docs/d/cbRadolNDDwG1d9s?sa=601.1074)
 
 ## Questions (KPIs)
 - What is the total sales, average order value, and total number of orders?
@@ -14,7 +14,6 @@ Superstore wants to create a sales performance report covering 2015-2018. So tha
 - Who are the top customers by total sales?
 - Which product category and sub-category generate the most sales?
 - Which states and regions contribute the most to sales?
-- Dashboard Interaction [View Dashboard](https://github.com/shedrack16/Superstore-Sales-Dashboard)
 
 ## Process
 - Verified data for any missing values and anomalies, and sorted out the same.
