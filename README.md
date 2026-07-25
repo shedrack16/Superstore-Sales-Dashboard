@@ -4,7 +4,7 @@
 Superstore wants to create a sales performance report covering 2015-2018. So that, the business can understand its customers, sales trends, and top-performing regions/products to grow more sales going forward.
 
 ## Dataset used
-- [Dataset](https://eu.wps.com/cms/docs/d/cbRadolNDDwG1d9s?sa=601.1074)
+- [Dataset](https://www.kaggle.com/datasets/divaadelia/superstore-sales-data?resource=download)
 
 ## Questions (KPIs)
 - What is the total sales, average order value, and total number of orders?
@@ -22,7 +22,7 @@ Superstore wants to create a sales performance report covering 2015-2018. So tha
 - Merged all visuals into one dashboard and applied slicers (City, Region) to make it dynamic.
 
 ## Dashboard
-![Superstore Sales Dashboard](https://github.com/shedrack16/Superstore-Sales-Dashboard)
+
 
 ## Project Insight
 - Total sales reached $1.11bn from 4,922 orders, with an average order value of $226.5K.
