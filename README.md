@@ -22,7 +22,7 @@ Superstore wants to create a sales performance report covering 2015-2018. So tha
 - Merged all visuals into one dashboard and applied slicers (City, Region) to make it dynamic.
 
 ## Dashboard
-[Dashboard] (file:///C:/Users/New%20User/Pictures/Screenshots/Screenshot%202026-07-25%20160211.png)
+[Dashboard](file:///C:/Users/New%20User/Pictures/Screenshots/Screenshot%202026-07-25%20160211.png)
 
 ## Project Insight
 - Total sales reached $1.11bn from 4,922 orders, with an average order value of $226.5K.
